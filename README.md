@@ -1,6 +1,6 @@
 # IITJ Health Care
 ----------------------------
-ABOUT THE PROJECT
+ABOUT THE PROJECT 
 ----------------------------
 This project provides students online access to Health Centre and Medical Store.
 The students can get online prescriptions from doctors, request ambulance in
